@@ -10,10 +10,6 @@ To use this webpage, simply copy and paste the HTML code into your text editor a
 
 The webpage uses a CSS stylesheet named `styles.css`. To use the stylesheet, link it to the HTML file in the head section:
 
-```html
-<link rel="stylesheet" href="styles.css">
-
-
 ## Images
 
 The webpage uses three images:
