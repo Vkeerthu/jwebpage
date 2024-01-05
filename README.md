@@ -1,4 +1,10 @@
 # Job Webpage
+## My Project
+
+This is a cool project! 😄
+
+Feel free to contribute. ❤️
+
 
 This is a simple webpage for showcasing job opportunities. It includes a header, banner, about section, jobs section, and footer.
 
