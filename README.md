@@ -32,4 +32,4 @@ Each job opening has an "Apply" button that links to a form where the user can a
 
 The footer includes links to the company's courses, programs, and YouTube channel. It also includes a copyright notice.
 # visit site
-[link] (https://vkeerthu.github.io/jwebpage/hyper/index.html)
+[link](https://vkeerthu.github.io/jwebpage/hyper/index.html)
