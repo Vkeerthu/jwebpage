@@ -1,23 +1,4 @@
-# Job Webpage
 
-This is a cool project! 😄 ❤️
-This is a simple webpage for showcasing job opportunities. It includes a header, banner, about section, jobs section, and footer.
-
-## Usage
-
-To use this webpage, simply copy an HTML code into your textHTML fi
-
-The webpage uses a CSS stylesheet named `styles.css`. To use the stylesheet, link it to the HTML file in the head section:
-
-## Images
-
-The webpage uses three images:
-
-* `logo.png`: This is the logo for the company.
-* `banner.jpg`: This is a banner image that displays at the top of the webpage.
-* `team.jpg`: This is an image of the team.
-
-## Jobs
 
 The jobs section lists three job openings:
 
