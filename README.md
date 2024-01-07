@@ -5,7 +5,7 @@ This is a simple webpage for showcasing job opportunities. It includes a header,
 
 ## Usage
 
-To use this webpage, simply copy an HTML code into your text editor and save it as an HTML file. Then, open the HTML file in your web browser to view the webpage.
+To use this webpage, simply copy an HTML code into your textHTML file in your web browser to view the webpage.
 
 ## CSS Styles
 
