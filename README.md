@@ -5,9 +5,7 @@ This is a simple webpage for showcasing job opportunities. It includes a header,
 
 ## Usage
 
-To use this webpage, simply copy an HTML code into your textHTML file in your web browser to view the webpage.
-
-## CSS Styles
+To use this webpage, simply copy an HTML code into your textHTML fi
 
 The webpage uses a CSS stylesheet named `styles.css`. To use the stylesheet, link it to the HTML file in the head section:
 
